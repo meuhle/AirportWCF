@@ -1,0 +1,13 @@
+D:\Alex\Uni\2 UNI\tecniche sviluppo sw\vs\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csprojAssemblyReference.cache
+D:\Alex\Uni\2 UNI\tecniche sviluppo sw\vs\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\bin\Debug\Aeroporto.exe.config
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\bin\Debug\Aeroporto.exe
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\bin\Debug\Aeroporto.pdb
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.exe
+C:\Users\Alex\Desktop\Aeroporto Aviazione\Aeroporto Aviazione\Aeroporto\Aeroporto\obj\Debug\Aeroporto.pdb

@@ -194,7 +194,7 @@ namespace Airport_Client
             }
 
             ac.Close();
-            Response.Redirect("Default.aspx");
+            Response.Redirect("Research.aspx");
         }
 
         public void AddView(object sender, EventArgs e)

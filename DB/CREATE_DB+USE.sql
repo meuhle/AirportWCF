@@ -1,0 +1,4 @@
+CREATE DATABASE Aviazione
+GO
+USE Aviazione
+GO
